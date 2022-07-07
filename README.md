@@ -1,3 +1,5 @@
-new1game.github.io
+fzxingnet.github.io
 
-Yoyes Technology Co., Ltd.
+fzxingnet Technology Co., Ltd.
+
+Email:fzxingnet@163.com
