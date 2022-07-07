@@ -1,5 +1,5 @@
 fzxingnet.github.io
 
-fzxingnet Technology Co., Ltd.
+Fujian XingNet Technology Co., Ltd.
 
 Email:fzxingnet@163.com
